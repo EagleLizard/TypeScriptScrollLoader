@@ -1,4 +1,4 @@
-#TypeScript ScrollLoader 
+# TypeScript ScrollLoader 
 
 How to run:
 * Install typescript v2.x
