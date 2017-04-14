@@ -1,0 +1,19 @@
+{
+  "name": "type-script-scroll-loader",
+  "version": "1.0.0",
+  "description": "TSScrollLoader",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EagleLizard/TypeScriptScrollLoader.git"
+  },
+  "author": "EagleLizard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EagleLizard/TypeScriptScrollLoader/issues"
+  },
+  "homepage": "https://github.com/EagleLizard/TypeScriptScrollLoader#readme"
+}
